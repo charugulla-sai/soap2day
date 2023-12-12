@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soap2day/static/css/main.193193ca.css",
+    "main.js": "/soap2day/static/js/main.3ef5602a.js",
+    "index.html": "/soap2day/index.html",
+    "main.193193ca.css.map": "/soap2day/static/css/main.193193ca.css.map",
+    "main.3ef5602a.js.map": "/soap2day/static/js/main.3ef5602a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193193ca.css",
+    "static/js/main.3ef5602a.js"
+  ]
+}
